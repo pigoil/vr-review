@@ -51,13 +51,11 @@
 - 第一个运行于PC上的3D游戏——3D Monster Maze
 
 ## 1983
-- **DARPA 分布交互仿真技术——SIMNET**
+- **DARPA（美国陆军和美国国防部高级项目研究计划局） 分布交互仿真技术——[SIMNET](https://en.wikipedia.org/wiki/SIMNET)**
 - 任天堂FC上市
 
 ## 1984
 - **McGreevy M. & Humphries J. 虚拟环境视觉显示器**
-- **VIDEOPLACE**
-- **VIEW**
 - 苹果推出第一台Mac电脑Macintosh 128K
     - 9英寸屏幕
     - 128KB RAM
@@ -65,9 +63,6 @@
     - System 1.0
     - 鼠标、键盘、GUI
     - 价格：$2495 
-
-## 1986
-- **Fisher**
 
 ## 1987
 - **Foley *Interfaces for advanced computing***
@@ -77,8 +72,8 @@
 - 世嘉发布第一台16bit家用电子游戏机——SEGA MD
 
 ## 1989
-- **Quantum 3D公司 OpenGVS**
-- CERN 分类互联网信息协议——WWW
+- **Quantum 3D公司 [OpenGVS](http://www.sai.msu.su/sal/E/3/OPENGVS.html)**
+- CERN（欧洲核子研究组织） 分类互联网信息协议——WWW
 
 ---
 
@@ -90,18 +85,18 @@
     - 高分辨率显示技术，等。
 
 ## 1991
-- **Virtuality**
+- **[Virtuality](https://en.wikipedia.org/wiki/Virtuality_(gaming))**
     - 分辨率：276×372
     - 刷新率：20FPS
     - 售价：$65000
 
 ## 1992
-- **Sense8公司 WTK**
+- **Sense8公司 [WorldToolKit](http://www8.cs.umu.se/kurser/TDBD12/HT00/lab/wtk/)**
 - SGI公司发布OpenGL 1.0
 
 ## 1993
 - **SEGA推出SEGA VR**
-- **Heim 提出VR是一种在效应上而不是事实上真实的事件或实体，同时开花了VR的七个特征：**
+- **Heim *Metaphysics of Virtual Reality* 提出VR是一种在效应上而不是事实上真实的事件或实体，同时刻画了VR的七个特征：**
     - 模拟性
     - 交互作用
     - 人工现实
