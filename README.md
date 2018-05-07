@@ -38,6 +38,7 @@
 
 ## 1968 第一个真正意义上的VR头显
 - **Sutherland *Sword  of  Damocles***
+- [世界上第一个MEMS设备](https://patents.google.com/patent/US3413573A/)
 
 ----
 
@@ -107,10 +108,10 @@
 
 ## 1994
 - **Burdea *et,al.* *Virtual Reality Technology***
-    - Immersion
-    - Interaction
-    - Imagination
-- **第一届WWW大会 VRML国际标准**
+    - Immersion 沉浸
+    - Interaction 交互
+    - Imagination 想象
+- **第一届WWW大会 [VRML国际标准](https://www.w3.org/MarkUp/VRML/)**
 
 ## 1995
 - **任天堂Virtual Boy**
@@ -125,5 +126,5 @@
 - 3dfx发布了Voodoo 3D加速卡
 
 ## 1996 
-- 国内
-- 863计划 分布式虚拟环境
+- 汪成为 *灵境技术：对逼真性和虚拟性的追求*
+- 863计划 分布式虚拟环境——DVENET
