@@ -12,10 +12,11 @@
 ## 1946 
 - 世界上第一台电子管计算机ENIAC
 
-## 1956 *被埋没的天才——Heileg M.
+## 1956 被埋没的天才——Heileg M.
 - **Heileg M. 摩托车仿真器——Sensorama** 
 
  ![](./Resource/Sensorama/Sensorama.jpg)
+
     - Sensorama的成果
         - 3D摄影和3D投影
         - 拍摄了五部电影：各类交通工具的体验
@@ -95,6 +96,7 @@
 - **[Virtuality](https://en.wikipedia.org/wiki/Virtuality_(gaming))**
 
  ![](./Resource/Virtuality.jpg)
+
     - 分辨率：276×372
     - 刷新率：20FPS
     - 售价：$65000
@@ -107,6 +109,7 @@
 - **SEGA推出SEGA VR**
 
  ![](./Resource/Sega%20VR/Sega%20VR.jpg)
+
 - **Heim *Metaphysics of Virtual Reality* 提出VR是一种在效应上而不是事实上真实的事件或实体，同时刻画了VR的七个特征：**
     - 模拟性
     - 交互作用
@@ -127,11 +130,13 @@
 - **任天堂Virtual Boy**
 
  ![](./Resource/Nintendo%20Virtual%20Boy/Virtual%20Boy.jpg)
+
     - 没有头部跟踪技术
     - 红色的LED画面让玩家头晕、恶心
 - **VFX1**
 
  ![](./Resource/VFX1.jpg)
+ 
     - 双LCD显示器
     - 三种角度动作追踪
     - 立体声扬声器
