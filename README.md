@@ -1,15 +1,18 @@
 # “远古”时期
 ## 1929 
 - **Link E.A. 飞行模拟器——林克机**
+![](./Resource/林克机.jpg)
 
 ## 1939
 - **View-Master**
+![](./Resource/View-Mater/View-Master.jpg)
 
 ## 1946 
 - 世界上第一台电子管计算机ENIAC
 
 ## 1956 *被埋没的天才——Heileg M.
 - **Heileg M. 摩托车仿真器——Sensorama** 
+![](./Resource/Sensorama/Sensorama.jpg)
     - Sensorama的成果
         - 3D摄影和3D投影
         - 拍摄了五部电影：各类交通工具的体验
@@ -34,7 +37,7 @@
 
 # VR的发迹
 ## 1965
-- **Sutherland  *The ultimate display***
+- [**Sutherland  *The ultimate display***](./Papers/The%20ultimate%20display.pdf)
 
 ## 1968 第一个真正意义上的VR头显
 - **Sutherland *Sword  of  Damocles***
@@ -56,7 +59,7 @@
 - 任天堂FC上市
 
 ## 1984
-- **McGreevy M. & Humphries J. 虚拟环境视觉显示器**
+- [**McGreevy M. & Humphries J. 虚拟环境视觉显示器**](./Papers/The%20virtual%20environment%20display.pdf)
 - 苹果推出第一台Mac电脑Macintosh 128K
     - 9英寸屏幕
     - 128KB RAM
@@ -66,7 +69,7 @@
     - 价格：$2495 
 
 ## 1987
-- **Foley *Interfaces for advanced computing***
+- [**Foley *Interfaces for advanced computing***](./Papers/Interfaces%20for%20advanced%20computing.pdf)
 - **Lanier J. 提出了VR的概念**
 
 ## 1988 家用游戏机井喷期
@@ -107,7 +110,7 @@
     - 网络通信
 
 ## 1994
-- **Burdea *et,al.* *Virtual Reality Technology***
+- **Burdea *et,al.* [*Virtual Reality Technology*](./Papers/Book%20review%20of%20Virtual%20Reality%20Technology.pdf)**
     - Immersion 沉浸
     - Interaction 交互
     - Imagination 想象
@@ -126,5 +129,5 @@
 - 3dfx发布了Voodoo 3D加速卡
 
 ## 1996 
-- 汪成为 *灵境技术：对逼真性和虚拟性的追求*
-- 863计划 分布式虚拟环境——DVENET
+- 汪成为 [*灵境技术：对逼真性和虚拟性的追求*](./Papers/灵境技术_对逼真性和虚拟性的追求_汪成为.pdf)
+- 863计划 [*分布式虚拟环境——DVENET*](./Papers/虚拟现实综述_赵沁平.pdf)
