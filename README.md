@@ -1,7 +1,7 @@
 # “远古”时期
 ## 1929 
 - **Link E.A. 飞行模拟器——林克机**
-![](./Resource/林克机.jpg)
+ ![](./Resource/林克机.jpg)
 
 ## 1939
 - **View-Master**
