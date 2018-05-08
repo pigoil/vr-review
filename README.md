@@ -84,7 +84,7 @@
 
 # 周边技术与硬件革命 VR标准化
 ## 1990
-- **SIGGRAPH会议，提出VR技术研究的主要内容**
+- **[SIGGRAPH会议](http://dblp.uni-trier.de/db/conf/siggraph/siggraph1990.html)，提出VR技术研究的主要内容**
     - 实时三维图形生成技术；
     - 多传感器交互技术；
     - 高分辨率显示技术，等。
