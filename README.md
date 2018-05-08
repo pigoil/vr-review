@@ -76,9 +76,6 @@
 - [**Foley *Interfaces for advanced computing***](./Papers/Interfaces%20for%20advanced%20computing.pdf)
 - **Lanier J. 提出了VR的概念**
 
-## 1988 家用游戏机井喷期
-- 世嘉发布第一台16bit家用电子游戏机——SEGA MD
-
 ## 1989
 - **Quantum 3D公司 [OpenGVS](http://www.sai.msu.su/sal/E/3/OPENGVS.html)**
 - CERN（欧洲核子研究组织） 分类互联网信息协议——WWW
